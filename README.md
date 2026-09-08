@@ -1,4 +1,4 @@
-# Bitbucket Pipelines Pipe: bitbucket-pipe
+# Bitbucket Pipelines Pipe: bitbucket-pipe for Blackduck
 
 Custom pipe to run SCA and SAST security scans
 
